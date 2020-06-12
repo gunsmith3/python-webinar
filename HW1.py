@@ -1,3 +1,7 @@
+'''''
+This module has functions associated with analyzing goemetry
+'''''
+
 import os
 import argparse
 
